@@ -30,6 +30,7 @@ This Power BI dashboard provides a comprehensive analysis of global inflation tr
 - Maps powered by **Bing Maps** and **OpenStreetMap**.  
 
 ## 📷 Preview  
+![image](https://github.com/user-attachments/assets/53616033-beee-4717-93bc-ab478cee4b82)
   
 
 ## 🤝 Contributing  
